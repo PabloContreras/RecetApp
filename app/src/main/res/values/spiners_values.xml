@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="genero_array">
+        <item>Postre</item>
+        <item>Comida</item>
+        <item>Desayuno</item>
+        <item>Cena</item>
+        <item>Botana</item>
+        <item>Aperitivo</item>
+        <item>Entrada</item>
+    </string-array>
+
+    <string-array name="estado_array">
+        <item>Activo</item>
+        <item>Inactivo</item>
+    </string-array>
+
+
+</resources>
